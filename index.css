@@ -15,6 +15,7 @@
 }
 a{
   color: white;
+  cursor: pointer;
 }
 li {
   list-style: none;
@@ -205,6 +206,7 @@ button {
   background-color: var(--bgcolor-2);
   color: white;
   transition: background-color 0.1s;
+  cursor: pointer;
 }
 .btn:hover button {
   background-color: #b3205d;
