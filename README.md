@@ -23,14 +23,22 @@ To get started with this project, follow these steps:
 ```
 
 2.  Navigate to the project directory:
-```cd FoodPanda_Website_Clone```
+```shell
+   cd FoodPanda_Website_Clone
+```
 3.  Open the project in your code editor and start working on your improvements or modifications.
 4.  After making changes, add and commit your code:
-```git add .```
-```git commit -m "Add your descriptive commit message here"```
+```shell
+   git add .
+```
+```shell 
+   git commit -m "Add your descriptive commit message here"
+```
 
-5.  Push your changes to your remote repository (e.g., GitHub):
-```git push origin main```
+6.  Push your changes to your remote repository (e.g., GitHub):
+```shell
+   git push origin main
+```
 
 # Contributors
 Your Name your@email.com
