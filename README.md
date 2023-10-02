@@ -41,5 +41,8 @@ To get started with this project, follow these steps:
 ```
 
 # Contributors
-Your Name your@email.com
+Muhammad Bilal 
+```shell
+m.bilal0111@gmail.com
+```
 Feel free to contribute to this project by creating pull requests or reporting issues.
