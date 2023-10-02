@@ -18,7 +18,7 @@ Food Panda is a well-known platform that allows users to order food from various
 To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
-   ```shell
+```shell
    git clone https://github.com/MuhammadBilal0111/FoodPanda_Website_Clone.git
 ```
 
