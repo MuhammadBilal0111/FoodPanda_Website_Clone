@@ -21,7 +21,6 @@ To get started with this project, follow these steps:
    ```shell
    git clone https://github.com/MuhammadBilal0111/FoodPanda_Website_Clone.git
 ```
-
 2.  Navigate to the project directory:
 ```shell
    cd FoodPanda_Website_Clone
