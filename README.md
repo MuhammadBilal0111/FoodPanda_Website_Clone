@@ -47,4 +47,4 @@ Muhammad Bilal
 m.bilal0111@gmail.com
 ```
 Feel free to contribute to this project by creating pull requests or reporting issues.
-<h1>This README provides clear and organized information for anyone interested in contributing to or working with your project.</h1>
+This README provides clear and organized information for anyone interested in contributing to or working with your project.
