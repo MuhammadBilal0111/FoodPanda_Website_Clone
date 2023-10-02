@@ -23,7 +23,7 @@ To get started with this project, follow these steps:
 ```
 
 2.  Navigate to the project directory:
-   ```shell
+```shell
    cd FoodPanda_Website_Clone
 ```
 
