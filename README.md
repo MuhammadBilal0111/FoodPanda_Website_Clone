@@ -25,7 +25,7 @@ To get started with this project, follow these steps:
 2.  Navigate to the project directory:
 ```shell
    cd FoodPanda_Website_Clone
-```
+
 
 3.  Open the project in your code editor and start working on your improvements or modifications.
 4.  After making changes, add and commit your code:
